@@ -33,3 +33,5 @@ python convert_pdf_markdown.py
 
 **Note:** A sample pdf file is also included in the repo.
 
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V5B121V4B9)
